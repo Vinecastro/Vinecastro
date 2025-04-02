@@ -44,7 +44,7 @@ Confira mais projetos no meu repositório!
 
 ## 📫 Entre em Contato  
 
-📩 **E-mail**: seuemail@email.com  
+📩 **E-mail**: vinehh.castro@gmail.com  
 💬 **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511969419610)  
 🔗 **LinkedIn**: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/vinicius-marques-6a87a62a4/)  
 
