@@ -40,12 +40,22 @@ Confira mais projetos no meu repositório!
 🔹 **Design & UX**: Criação de interfaces intuitivas e acessíveis  
 🔹 **Git & Versionamento**: GitHub para controle de código  
 
+### 🛠 Tecnologias que utilizo:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vine-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vine-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vine-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 ---
 
 ## 📫 Entre em Contato  
 
 📩 **E-mail**: vinehh.castro@gmail.com  
 💬 **WhatsApp**: [Clique aqui para conversar](https://wa.me/5511969419610)  
-🔗 **LinkedIn**: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/vinicius-marques-6a87a62a4/)  
+🔗 **LinkedIn**: [linkedin.com/in/vinicius-marques-6a87a62a4/](https://www.linkedin.com/in/vinicius-marques-6a87a62a4/)  
 
 Obrigado por visitar meu perfil! 😃🚀  
